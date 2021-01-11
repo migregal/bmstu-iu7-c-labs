@@ -1,0 +1,13 @@
+Input: 10
+Output: 55
+
+Input: 0
+Output: 0
+
+Input: -1
+Output: N isn't in correct interval
+
+Input: a
+Output: Input error
+
+

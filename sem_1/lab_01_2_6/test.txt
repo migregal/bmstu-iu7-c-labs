@@ -1,0 +1,25 @@
+Input: 0 0 10 0 0 10 4 4
+Output: 0
+
+Input: 0 10 10 0 0 0 4 4
+Output: 0
+
+Input: 0 0 4 0 0 4 0 2
+Output: 1
+
+Input: 0 0 4 0 0 4 2 0
+Output: 1
+
+Input: 0 0 4 0 0 4 2 2
+Output: 1
+
+Input: 0 0 5 5 10 0 5 10
+Output: 2
+
+Input: 0 0 0 0 0 0 1 1
+Output: There is not triangle
+
+Input: 0 0 10 10 20 0 0 a
+Output: Input error
+
+

@@ -1,0 +1,13 @@
+Input: 0.5 1e-2
+Output: 0.574219 0.523599 0.050620 0.096677
+
+Input: 0 1e-2
+Output: 0.574219 0.523599 0.050620 0.096677
+
+Input: -2 1e-2
+Output: Wrong input datas
+
+Input: 0.1 -a
+Output: Input error
+
+

@@ -1,0 +1,1 @@
+./func_tests/shared/cor2.txt ./out/.res.txt

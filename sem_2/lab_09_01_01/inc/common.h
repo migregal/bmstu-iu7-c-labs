@@ -1,0 +1,32 @@
+#ifndef __COMMON_H__
+#define __COMMON_H__
+
+#define OK 0
+
+#define SEARCH_FLAG 0001
+#define NO_SEARCH_FLAG 0002
+#define TITLE_SORT_FLAG 0003
+#define NAME_SORT_FLAG 0004
+#define YEAR_SORT_FLAG 0005
+#define WRONG_FLAG_ERROR 0006
+
+#define FILE_NAME_ERROR 0101
+#define DATA_ERROR 0102
+#define INPUT_FILE_ERROR 0103
+#define FILE_READING_ERROR 0104
+#define EMPTY_PTR_ERR 0105
+#define NON_EMPTY_PTR_ERR 0106
+#define MEM_ALLOC_ERR 0107
+#define ARRAY_IS_EMPTY_ERR 0110
+#define ARRAY_SIZE_OVERFLOW_ERR 0111
+
+#define COMMAND_FORMAT_ERROR 0200
+#define FILE_ENDED 0201
+#define ARRAY_SORTED 0202
+#define FILM_NOT_FOUND 0203
+#define FILM_FOUND 0204
+
+#define LOG_LEVEL NO_LOG
+#include "macrologger.h"
+
+#endif

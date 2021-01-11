@@ -1,0 +1,1 @@
+m ./func_tests/shared/data_00.txt ./func_tests/shared/data_05.txt ./out/.result.txt

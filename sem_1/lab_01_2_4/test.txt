@@ -1,0 +1,8 @@
+Input: 100
+Output: 0 h. 1 min. 40 sec.
+
+Input: 100000
+Output: 27 h. 46 min. 40 sec.
+
+Input: 1024
+Output: 0 h. 17 min. 4 sec.

@@ -1,0 +1,1 @@
+There isn't elems divided by 3 in array!

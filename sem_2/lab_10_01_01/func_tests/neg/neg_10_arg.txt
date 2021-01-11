@@ -1,0 +1,1 @@
+./func_tests/shared/name2inc.txt ./out/.res.txt

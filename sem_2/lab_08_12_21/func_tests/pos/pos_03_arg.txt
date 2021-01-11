@@ -1,0 +1,1 @@
+a ./func_tests/shared/data_08.txt ./func_tests/shared/data_08.txt ./out/.result.txt
