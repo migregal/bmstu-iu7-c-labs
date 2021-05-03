@@ -1,1 +1,0 @@
-./func_tests/shared/neg_data_0.txt title
